@@ -2,7 +2,6 @@
 #It should be specific or else the code will not proceed.
 
 #DATA ENCRYPTING
-print("Problem 1")
 a = input("Kindly enter the string 'the quick brown fox jumps over the lazy dog' to encrypt: ")
 b = "the quick brown fox jumps over the lazy dog"
 while a != b:
@@ -16,7 +15,6 @@ while a == b:
 
 
 #DATA DECRYPTING
-print("\nProblem 2")
 a = input("Kindly enter the string 'th& q!#ck br+wn f+x j!mps +v&r th& l*zy d+g' to decrypt: ")
 b = "th& q!#ck br+wn f+x j!mps +v&r th& l*zy d+g"
 while a != b:
